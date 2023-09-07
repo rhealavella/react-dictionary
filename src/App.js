@@ -6,7 +6,7 @@ function App() {
     <div className="container">
       <div className="App">
         <h1>Dictionary</h1>
-        <Dictionary />
+        <Dictionary defaultKeyword="sunset" />
       </div>
       <footer>
         This project was coded by{" "}

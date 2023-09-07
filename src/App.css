@@ -1,14 +1,21 @@
+body {
+  background-color: #121c27;
+}
 .App {
+  background-color: #475b67;
   max-width: 6000px;
-  border: solid 2px #43585e;
   border-radius: 5px;
   padding: 10px;
   margin: 20px;
-  background: #43585e;
+  color: antiquewhite;
+  font-family: "Poppins", sans-serif;
 }
 .App h1 {
-  color: #121c27;
+  color: antiquewhite;
   text-align: center;
+  font-family: "DM Serif Display", serif;
+  letter-spacing: 3px;
+  font-size: 48px;
 }
 
 .link {
